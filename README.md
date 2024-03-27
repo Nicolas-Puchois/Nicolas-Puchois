@@ -20,5 +20,5 @@ I'm Nicolas, a software dev from :fr:.
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=C%2B%2B&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=orange-blue&labelColor=yellow)
 
-![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=orange&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=orange&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/MariaDB-blue?style=flat&logo=MariaDB&logoColor=orange&labelColor=grey)
