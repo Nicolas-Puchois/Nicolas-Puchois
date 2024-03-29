@@ -28,6 +28,4 @@ I'm Nicolas, a software dev from :fr:.
 
 ----------------------------------------------------------------------------
 ---------------------------------------------------------------------------
-## <p align="center">Stats</p>
-
-[![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)]
+## <p align="center">Stats</p> [![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)]
