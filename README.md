@@ -30,4 +30,4 @@ I'm Nicolas, a software dev from :fr:.
 ---------------------------------------------------------------------------
 ## <p align="center">Stats</p>
 
-[![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)]
