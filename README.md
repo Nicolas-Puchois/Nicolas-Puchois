@@ -12,7 +12,7 @@ I'm Nicolas, a software dev from :fr:.
 
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=black&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=orange&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/LazyGitBadge-lightblue?labelColor=yellow)
+![Static Badge](https://img.shields.io/badge/LazyGit-lightblue?labelColor=yellow)
 
 
 
@@ -25,3 +25,9 @@ I'm Nicolas, a software dev from :fr:.
 
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=orange&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/MariaDB-orange?style=flat&logo=MariaDB&logoColor=blue&labelColor=orange)
+
+----------------------------------------------------------------------------
+---------------------------------------------------------------------------
+## <p align="center">Stats</p>
+
+[![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
