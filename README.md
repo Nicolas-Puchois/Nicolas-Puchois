@@ -12,6 +12,9 @@ I'm Nicolas, a software dev from :fr:.
 
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=black&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Git-orange?style=flat&logo=Git&logoColor=orange&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/LazyGitBadge-lightblue?labelColor=yellow)
+
+
 
 
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=blue&labelColor=grey)
