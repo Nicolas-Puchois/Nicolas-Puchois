@@ -32,3 +32,8 @@ I'm Nicolas, a software dev from :fr:.
 ---------------------------------------------------------------------------
 ### <p align="center">Stats</p> 
  ![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)
+
+ ---------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+
+ - :bulb: Website where i found online courses for language learnign at a good price : [Humble Bundle](https://fr.humblebundle.com/software)
