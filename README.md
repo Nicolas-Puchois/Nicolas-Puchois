@@ -20,10 +20,13 @@ I'm Nicolas, a software dev from :fr:.
 
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=noir)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=Yellow)
+
 
 
 
@@ -33,6 +36,7 @@ I'm Nicolas, a software dev from :fr:.
 ### <p align="center">Stats</p> 
  ![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Puchois&layout=donut)]
  ---------------------------------------------------------------------------
  --------------------------------------------------------------------------
 
