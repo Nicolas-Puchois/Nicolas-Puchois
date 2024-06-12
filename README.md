@@ -1,6 +1,6 @@
 # :wave: Hi Newcomer :octocat:
 
-I'm Nicolas, a software dev from :fr:.
+I'm Nicolas, a dev from :fr:.
 
 :heart: i like video games, manga and anime.
 
