@@ -16,6 +16,11 @@ I'm Nicolas, a dev from :fr:.
 ----------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nicolas-puchois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-puchois" height="30" width="40" /></a>
+</p>
+
 ### <p align="center">Stats</p>
 
 ![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)
@@ -26,13 +31,8 @@ I'm Nicolas, a dev from :fr:.
 
 - :bulb: Website where i found online courses for language learnign at a good price : [Humble Bundle](https://fr.humblebundle.com/software)
 
-<h1 align="center">Hi 👋, I'm Nicolas Puchois</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nicolas-puchois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-puchois" height="30" width="40" /></a>
-</p>
+
 
 
 
