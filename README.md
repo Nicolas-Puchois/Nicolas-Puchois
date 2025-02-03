@@ -21,6 +21,9 @@ I'm Nicolas, a dev from :fr:.
 <a href="https://linkedin.com/in/nicolas-puchois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-puchois" height="30" width="40" /></a>
 </p>
 
+---------------------------------------------------------------------
+---------------------------------------------------
+
 ### <p align="center">Stats</p>
 
 ![Les Stats GitHub de nicolas](https://github-readme-stats.vercel.app/api?username=Nicolas-Puchois&show_icons=true&theme=tokyonight)
